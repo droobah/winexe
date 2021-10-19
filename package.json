@@ -1,6 +1,6 @@
 {
-  "name": "winexe",
-  "version": "0.4.0",
+  "name": "@droobah/winexe",
+  "version": "0.1.0",
   "description": "Wrapper around the winexe and psexec/paexec",
   "main": "index.js",
   "directories": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/R-Vision/winexe.git"
+    "url": "git+https://github.com/droobah/winexe.git"
   },
   "keywords": [
     "winexe",
@@ -22,15 +22,15 @@
   "author": "Nickolay Alexandrov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/R-Vision/winexe/issues"
+    "url": "https://github.com/droobah/winexe/issues"
   },
-  "homepage": "https://github.com/R-Vision/winexe#readme",
+  "homepage": "https://github.com/droobah/winexe#readme",
   "dependencies": {
     "dev-null": "^0.1.1",
-    "shelljs": "^0.6.0"
+    "shelljs": "^0.8.4"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.4.5"
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
   }
 }
