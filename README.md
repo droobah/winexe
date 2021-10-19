@@ -3,7 +3,7 @@ Wrapper around the winexe and psexec|paexec
 
 ### Install
 ```bash
-npm install winexe
+npm install @droobah/winexe
 ```
 
 ### Usage
