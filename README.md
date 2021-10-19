@@ -8,7 +8,7 @@ npm install @droobah/winexe
 
 ### Usage
 ```javascript
-var WinExe = require('winexe');
+var WinExe = require('@droobah/winexe');
 
 var winexe = new WinExe({
     username: 'LOGIN',
